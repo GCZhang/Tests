@@ -1,0 +1,9 @@
+My global rank is 0. coords is: 0 0 0. Reduce_G is: 4. Reduce_A is: 2. Reduce_S is: 1
+My global rank is 1. coords is: 0 0 1. Reduce_G is: 6. Reduce_A is: 4. Reduce_S is: 1
+My global rank is 2. coords is: 0 1 0. Reduce_G is: 8. Reduce_A is: 2. Reduce_S is: 5
+My global rank is 3. coords is: 0 1 1. Reduce_G is: 10. Reduce_A is: 4. Reduce_S is: 5
+My global rank is 4. coords is: 1 0 0. Reduce_G is: 4. Reduce_A is: 10. Reduce_S is: 9
+My global rank is 5. coords is: 1 0 1. Reduce_G is: 6. Reduce_A is: 12. Reduce_S is: 9
+My global rank is 6. coords is: 1 1 0. Reduce_G is: 8. Reduce_A is: 10. Reduce_S is: 13
+My global rank is 7. coords is: 1 1 1. Reduce_G is: 10. Reduce_A is: 12. Reduce_S is: 13
+
