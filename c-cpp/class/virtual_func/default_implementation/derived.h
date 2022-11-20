@@ -20,7 +20,7 @@ derived::derived(int i) : base(i)
 void derived::print()
 {
     _i = 1;
-    set_i(2);
+    set_i(43);
     printVariable();
     std::cout << "_i in derived class is: " << _i << std::endl;
     base::printVariable();
